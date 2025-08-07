@@ -1,6 +1,5 @@
 pandas
 ISLP
-l0bnb
 seaborn
 xgboost
 streamlit
